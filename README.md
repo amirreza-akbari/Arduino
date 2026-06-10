@@ -63,6 +63,3 @@ A simple and practical Arduino project that reads temperature using a DHT21 sens
 4. Upload the code to Arduino UNO
 5. Open Serial Monitor (9600 baud)
 
----
-
-## 📟 Serial Output Example
